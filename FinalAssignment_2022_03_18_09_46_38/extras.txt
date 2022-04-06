@@ -1,0 +1,52 @@
+ 
+   {"startTime": 0, "stopTime": 20, "color": "#f0a"},
+   {"startTime": 20, "stopTime": 40, "color": "#0f0"},
+   {"startTime": 40, "stopTime": 60, "color": "#a0f"},
+   
+   {"startTime": 0, "stopTime": 20, "color": "#f0a"},
+   {"startTime": 20, "stopTime": 40, "color": "#0f0"},
+   {"startTime": 40, "stopTime": 60, "color": "#a0f"},
+   
+   {"startTime": 0, "stopTime": 20, "color": "#f0a"},
+   {"startTime": 20, "stopTime": 40, "color": "#0f0"},
+   {"startTime": 40, "stopTime": 60, "color": "#a0f"},
+   
+   {"startTime": 0, "stopTime": 20, "color": "#f0a"},
+   {"startTime": 20, "stopTime": 40, "color": "#0f0"},
+   {"startTime": 40, "stopTime": 60, "color": "#a0f"},
+   
+   {"startTime": 0, "stopTime": 20, "color": "#f0a"},
+   {"startTime": 20, "stopTime": 40, "color": "#0f0"},
+   {"startTime": 40, "stopTime": 60, "color": "#a0f"},
+   
+   {"startTime": 0, "stopTime": 20, "color": "#f0a"},
+   {"startTime": 20, "stopTime": 40, "color": "#0f0"},
+   {"startTime": 40, "stopTime": 60, "color": "#a0f"},
+   
+   {"startTime": 0, "stopTime": 20, "color": "#f0a"},
+   {"startTime": 20, "stopTime": 40, "color": "#0f0"},
+   {"startTime": 40, "stopTime": 60, "color": "#a0f"},
+   
+   {"startTime": 0, "stopTime": 20, "color": "#f0a"},
+   {"startTime": 20, "stopTime": 40, "color": "#0f0"},
+   {"startTime": 40, "stopTime": 60, "color": "#a0f"},
+   
+   {"startTime": 0, "stopTime": 20, "color": "#f0a"},
+   {"startTime": 20, "stopTime": 40, "color": "#0f0"},
+   {"startTime": 40, "stopTime": 60, "color": "#a0f"},
+   
+   {"startTime": 0, "stopTime": 20, "color": "#f0a"},
+   {"startTime": 20, "stopTime": 40, "color": "#0f0"},
+   {"startTime": 40, "stopTime": 60, "color": "#a0f"},
+   
+   {"startTime": 0, "stopTime": 20, "color": "#f0a"},
+   {"startTime": 20, "stopTime": 40, "color": "#0f0"},
+   {"startTime": 40, "stopTime": 60, "color": "#a0f"},
+   
+   {"startTime": 0, "stopTime": 20, "color": "#f0a"},
+   {"startTime": 20, "stopTime": 40, "color": "#0f0"},
+   {"startTime": 40, "stopTime": 60, "color": "#a0f"},
+   
+   {"startTime": 0, "stopTime": 20, "color": "#f0a"},
+   {"startTime": 20, "stopTime": 40, "color": "#0f0"},
+   {"startTime": 40, "stopTime": 60, "color": "#a0f"}
